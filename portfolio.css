@@ -1,0 +1,23 @@
+html{
+    background-color: blueviolet;
+    color: black;
+    font: 0.5rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+a{
+    text-align: underline;
+    color:red;
+    cursor: pointer;
+}
+a:visited{
+    color:red;
+}
+a:hover,a:focus{
+    color:dodgerblue;
+    background: gold;
+}
+a:active{
+    color:purple;
+}
